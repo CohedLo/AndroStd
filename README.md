@@ -1,0 +1,2 @@
+# AndroStd
+Android Studio applications
